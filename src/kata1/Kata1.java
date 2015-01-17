@@ -6,8 +6,5 @@ public class Kata1 {
         Team team = new Team("U.D. Las Palmas");
         
         System.out.println(team.getName());
-        
-        
     }
-    
 }
