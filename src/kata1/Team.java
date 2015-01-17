@@ -1,7 +1,7 @@
 package kata1;
 
 public class Team {
-    private String name;
+    private final String name;
 
     public Team(String name) {
         this.name = name;
